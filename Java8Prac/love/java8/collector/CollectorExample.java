@@ -1,4 +1,4 @@
-package love.java8;
+package love.java8.collector;
 
 import java.io.BufferedReader;
 import java.io.IOException;
